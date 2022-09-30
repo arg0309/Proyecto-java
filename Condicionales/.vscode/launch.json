@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Condicionales_146dac6c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Edades",
+            "request": "launch",
+            "mainClass": "Edades",
+            "projectName": "Condicionales_146dac6c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio",
+            "request": "launch",
+            "mainClass": "Ejercicio",
+            "projectName": "Condicionales_146dac6c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiple",
+            "request": "launch",
+            "mainClass": "Multiple",
+            "projectName": "Condicionales_146dac6c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Salario",
+            "request": "launch",
+            "mainClass": "Salario",
+            "projectName": "Condicionales_146dac6c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Si",
+            "request": "launch",
+            "mainClass": "Si",
+            "projectName": "Condicionales_146dac6c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Utilidades",
+            "request": "launch",
+            "mainClass": "Utilidades",
+            "projectName": "Condicionales_146dac6c"
+        }
+    ]
+}
